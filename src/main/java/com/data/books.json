@@ -1,0 +1,88 @@
+[
+    {
+        "id": "26a4505e-fd2e-4396-bd86-df022c020b8b",
+        "title": "The Cat in the Hat",
+        "year": 1957,
+        "genre": "Children",
+        "ISBN": "039480001X",
+        "publisher": "Random House",
+        "author": "Dr. Seuss",
+        "numCopies": 3,
+        "newArrival": false,
+        "img": "cat-in-hat.jpeg",
+        "loans": [
+            {
+                "id": "ecb0255f-4233-4999-a242-940281707574",
+                "due": "2025-01-25",
+                "renew_count": 2
+            },
+            {
+                "id": "df5cce9f-aae5-40f5-b03d-2b598f0a4f89",
+                "due": "2025-02-04",
+                "renew_count": 3
+            }
+        ]
+    },
+    {
+        "id": "90c152b2-aba9-45c6-b9a7-a296ce8392e4",
+        "title": "Pajama Time",
+        "year": 2000,
+        "genre": "Children",
+        "ISBN": "9780761119753",
+        "publisher": "Workman",
+        "author": "Sandra Boynton",
+        "numCopies": 2,
+        "newArrival": true,
+        "img": "pajama-time.jpg",
+        "loans": [
+            {
+                "id": "ecb0255f-4233-4999-a242-940281707574",
+                "due": "2025-01-25",
+                "renew_count": 2
+            }
+        ]
+    },
+    {
+        "id": "76fa076f-d737-4294-aa7d-ea4815c7cd96",
+        "title": "Pride and Prejudice",
+        "year": 1813,
+        "genre": "Women's Fiction",
+        "ISBN": "1503290565",
+        "publisher": "CreateSpace",
+        "author": "Jane Austin",
+        "numCopies": 1,
+        "newArrival": false,
+        "img": "pride-and-prejudice.jpg",
+        "loans": [
+            {
+                "id": "90502e71-b57a-4f9a-b8a4-c0f0e4eff20c",
+                "due": "2025-01-29",
+                "renew_count": 1
+            },
+            {
+                "id": "6870652f-a4e3-42c0-b34e-68af90f90e07",
+                "due": "2025-02-06",
+                "renew_count": 0
+            }
+        ]
+    },
+    {
+        "id": "76fa076f-d737-4294-aa7d-ea4815c7cd96",
+        "title": "Gone With the Wind",
+        "year": 1936,
+        "genre": "Historical Fiction",
+        "ISBN": "1451635621",
+        "publisher": "Scribner",
+        "author": "Margaret Mitchell",
+        "numCopies": 2,
+        "newArrival": false,
+        "img": "gone-with-the-wind.jpg",
+        "loans": [
+            {
+                "id": "90502e71-b57a-4f9a-b8a4-c0f0e4eff20c",
+                "due": "2025-01-29",
+                "renew_count": 0
+            }
+        ]
+    }
+]
